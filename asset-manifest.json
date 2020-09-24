@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/velopert-todo-list-react/static/css/main.1de0f9ad.chunk.css",
+    "main.js": "/velopert-todo-list-react/static/js/main.1afe9ea5.chunk.js",
+    "main.js.map": "/velopert-todo-list-react/static/js/main.1afe9ea5.chunk.js.map",
+    "runtime-main.js": "/velopert-todo-list-react/static/js/runtime-main.d8e9eaa5.js",
+    "runtime-main.js.map": "/velopert-todo-list-react/static/js/runtime-main.d8e9eaa5.js.map",
+    "static/js/2.8f2ac878.chunk.js": "/velopert-todo-list-react/static/js/2.8f2ac878.chunk.js",
+    "static/js/2.8f2ac878.chunk.js.map": "/velopert-todo-list-react/static/js/2.8f2ac878.chunk.js.map",
+    "index.html": "/velopert-todo-list-react/index.html",
+    "precache-manifest.ff000be94bb571b6e2f66dce6df18db0.js": "/velopert-todo-list-react/precache-manifest.ff000be94bb571b6e2f66dce6df18db0.js",
+    "service-worker.js": "/velopert-todo-list-react/service-worker.js",
+    "static/css/main.1de0f9ad.chunk.css.map": "/velopert-todo-list-react/static/css/main.1de0f9ad.chunk.css.map",
+    "static/js/2.8f2ac878.chunk.js.LICENSE.txt": "/velopert-todo-list-react/static/js/2.8f2ac878.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e9eaa5.js",
+    "static/js/2.8f2ac878.chunk.js",
+    "static/css/main.1de0f9ad.chunk.css",
+    "static/js/main.1afe9ea5.chunk.js"
+  ]
+}
